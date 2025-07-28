@@ -108,16 +108,6 @@ Contributions are appreciated! To contribute:
 
 ---
 
-## 📂 Optional Enhancements
-
-* Add multilingual captioning support
-* Provide style presets (e.g., poetic, factual, humorous captions)
-* Enable batch processing for multiple images
-* Integrate image embedding or indexing systems
-* Include CI/CD setup for continuous testing
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
